@@ -3,13 +3,9 @@
 
 Email Me 👉 ✉️ **surjendud2001@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
-- 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** 
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** surjendud2001@gmail.com
-- 😄 **Pronouns:** Surjendu
+- 💬 Collaboration, Tech Support
+- 📫  surjendud2001@gmail.com
+- 😄  Surjendu
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 - ## 🏆 GitHub Trophies
